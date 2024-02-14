@@ -4,6 +4,7 @@ class AppComputer {
 }
 
 fun main() {
+    // Creating opjects for smartphone and laptop
     val smartphone1: SmartPhone = SmartPhone("IPhone", 2022, 16, true);
     val laptop1: Laptop = Laptop("Apple", 2019, 239, true);
 
